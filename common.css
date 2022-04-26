@@ -1,0 +1,10 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
